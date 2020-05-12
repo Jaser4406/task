@@ -2,5 +2,6 @@
 
 welcome to my kitchen
 
-oizza
+Pizza
 pasta
+chicken
