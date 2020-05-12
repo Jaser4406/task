@@ -6,7 +6,8 @@ Pizza
 pasta
 chicken
 
-
+beas
+kheer
 
 
 Regards!Thaks
